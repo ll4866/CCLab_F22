@@ -1,0 +1,36 @@
+.contentWrapper{
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.contentBox{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    padding: 5px;
+    margin: 40px;
+    margin-right: 40px;
+}
+
+.one{
+    background-color: white;
+}
+
+.two{
+    background-color: yellow;
+}
+
+.three{
+    background-color: green;
+}
+
+.four{
+    background-color: blue;
+}
+
+.five{
+    background-color: red;
+}

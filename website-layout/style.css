@@ -1,0 +1,38 @@
+p{
+    background-color: yellow;
+}
+
+.contentBox{
+    background-color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px;
+}
+
+.headlineWrapper{
+    margin-bottom: 200px;
+}
+
+.contentWrapper{
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+/* In relation to page*/
+.positionExperiment{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+/* In relation to original postion*/
+span{
+    position: relative;
+    top: -4px;
+    left: 3px;
+}
