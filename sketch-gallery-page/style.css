@@ -31,10 +31,25 @@ canvas {
     margin-right: 40px;
 }
 
+/* Top Title */
 .title{
     font-size: xx-large;
 }
 
+/* Project Title */
 .projectTitle{
     font-size: x-large;
+    margin-left: 50px;
+    margin-bottom: -20px;
+}
+
+/* Canvas Sub-description */
+.link{
+    margin-top: -40px;
+}
+
+/* Descriptions */
+.description{
+    margin-top: -20px;
+    margin: 50px;
 }
