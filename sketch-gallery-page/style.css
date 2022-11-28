@@ -7,6 +7,12 @@ canvas {
     display: block;
 }
 
+/* Top Title */
+.title{
+    font-size: xx-large;
+}
+
+/* sketch */
 #canvasContainer{
     margin: 40px;
 }
@@ -16,13 +22,13 @@ canvas {
     margin: auto;
     width: 100%;
     max-width: 600px;
-    background-color: blueviolet;
+    background-color: lightskyblue;
     padding: 20px;
 }
 
 /* Aqua Boxes */
 .contentBox{
-    background-color: aqua;
+    background-color: whitesmoke;
     border-color: black;
     border-width: 4px;
     border-style: solid;
@@ -31,25 +37,26 @@ canvas {
     margin-right: 40px;
 }
 
-/* Top Title */
-.title{
-    font-size: xx-large;
-}
-
 /* Project Title */
 .projectTitle{
     font-size: x-large;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-bottom: -20px;
 }
 
 /* Canvas Sub-description */
 .link{
+    font-size: small;
     margin-top: -40px;
 }
 
 /* Descriptions */
 .description{
+    font-size: medium;
     margin-top: -20px;
     margin: 50px;
+}
+
+.images{
+    margin: 40px;
 }
