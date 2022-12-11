@@ -1,0 +1,15 @@
+img{
+    width: 250px;
+}
+
+.caption{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.imgAndCaption{
+    border: black dotted 2px;
+    padding: 5px;
+    display: inline-block;
+}

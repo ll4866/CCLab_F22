@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #4E3A9F;
+}
+
+.content{
+    margin: auto;
+    width: 100%;
+    max-width: 350px;
+    padding: 30px;
+    background-color: purple;
+}
+
+.head{
+    padding: 35px;
+    text-align: center;
+    color: paleturquoise;
+}
+
+a{
+    justify-content: center;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+#canvasContainer{
+    margin: auto;
+    width: 100%;
+    max-width: 400px;
+    background-color: grey;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    padding: 20px;
+}
+
+.contentWrapper{
+    background-color: antiquewhite;
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.contentBox{
+    background-color: rgb(167, 238, 252);
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    padding: 5px;
+    margin: 40px;
+    margin-right: 40px;
+}
+
+.title{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
