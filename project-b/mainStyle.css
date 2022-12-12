@@ -7,7 +7,7 @@ html, body {
 .content{
     margin: auto;
     width: 100%;
-    max-width: 350px;
+    max-width: 330px;
     padding: 30px;
     background-color: purple;
 }
